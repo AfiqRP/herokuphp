@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Mohammad Afiq bin Mohammad Effendi",
+        "email": "21019423@rp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
